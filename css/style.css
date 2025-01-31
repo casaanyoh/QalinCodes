@@ -1,0 +1,49 @@
+:root{
+    --primaryColor: #0F112B;
+    --secondaryColor: #25245F;
+   --AccedentColor: #AA54A0;
+}
+.btn0{
+    background-color: var(--AccedentColor);
+}
+.btn1{
+    background-color: var(--AccedentColor);
+    padding: 17px 100px;
+}
+.img{
+    width: 8rem;
+}
+.navbar{
+    background-color: var(--primaryColor);
+}
+.para{
+    font-size: 77px;
+    font-weight: 500px;
+    color: rgb(203, 196, 196);
+}
+.para>span{
+    color: var(--AccedentColor);
+}
+.btn2{
+    padding: 17px 100px;
+}
+.btn2:hover{
+    background-color: var(--AccedentColor);
+}
+div>img{
+    width: 500px;
+}
+.fs{
+    font-size: 55px;
+}
+.btn3{
+    background-color: var(--AccedentColor);
+    padding: 10px 30px;
+    border-radius: 8px;
+}
+.card2{
+    background-color: var(--AccedentColor);
+}
+.textc{
+    color: var(--secondaryColor);
+}
